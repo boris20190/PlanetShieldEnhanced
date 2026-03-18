@@ -1,7 +1,7 @@
 {
     "name": "PlanetShieldEnhanced",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Enhances Planetary Shield: single generator covers entire planet + shield protects ground buildings from dark fog attacks.",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/boris20190/PlanetShieldEnhanced",
+    "description": "Enhances Planetary Shield: single generator covers entire planet + shield protects ground buildings from dark fog attacks. 增强行星护盾：单护盾全球覆盖 + 护盾防护地面建筑免受黑雾攻击。",
     "dependencies": []
 }
