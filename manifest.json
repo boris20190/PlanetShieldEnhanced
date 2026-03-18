@@ -1,0 +1,7 @@
+{
+    "name": "PlanetShieldEnhanced",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Enhances Planetary Shield: single generator covers entire planet + shield protects ground buildings from dark fog attacks.",
+    "dependencies": []
+}

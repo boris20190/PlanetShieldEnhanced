@@ -1,0 +1,23 @@
+# Build output
+build/
+obj/
+
+# Dependencies (not committed, too large)
+dependencies/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packages
+*.zip
+*.nupkg
+
+# Python venv (if any)
+.venv/
+__pycache__/
