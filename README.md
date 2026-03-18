@@ -17,4 +17,4 @@ The planetary shield protects ground buildings from dark fog ground unit attacks
 ## Installation
 Place `PlanetShieldEnhanced.dll` in `BepInEx/plugins/PlanetShieldEnhanced/`.
 
-> If you have **PlanetwidePlanetaryShieldGenerator** installed, disable it to avoid conflicts.
+> ⚠️ This mod conflicts with other planetwide shield mods. Do not enable them simultaneously.
